@@ -1,2 +1,4 @@
 # Students_System
-Students_System
+服务外包比赛的任务：将设计的软件功能流程简单的实现
+
+学生信息服务平台
